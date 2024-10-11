@@ -829,7 +829,7 @@ a.hero-btn.slide-in-left {
 .video-container {
     position: relative;
     height: 100%;
-    background: url('yellow.png') no-repeat center center;
+    background: url('image/yellow.png') no-repeat center center;
     background-size: cover;
 }
 
