@@ -94,7 +94,7 @@ a {
 
 .navbar-toggler {
     border-color: #535151 !important; 
-}on */
+}on
 
 .navbar-toggler .fa-bars {
     color: rgb(141, 137, 137) !important; 
@@ -124,9 +124,9 @@ a {
 }
 
 .hero-text {
-    font-size: 18px;
+    font-size: 16px;
     color: #ddd;
-    margin-bottom: 30px;
+    margin-bottom: 45px;
 }
 
 .hero-btn {
@@ -179,7 +179,7 @@ a {
     }
 
     .hero-text {
-        max-width: 520px;
+        max-width: 700px;
         font-size: 15px;
     }
 
