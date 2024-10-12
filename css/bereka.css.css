@@ -193,6 +193,7 @@ a {
     }
 
     .hero-text {
+        max-width: 400px;
         font-size: 15px;
     }
 
@@ -237,7 +238,7 @@ a {
 
     .custom-brand {
         color: orange;
-        font-size: 1.5rem;
+        font-size: 1.2rem;
         font-weight: bold;
         text-decoration: none;
         padding-right: 280px;
