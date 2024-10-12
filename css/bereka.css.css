@@ -6,9 +6,24 @@
     font-family: Arial, sans-serif;
 }
 
-body {
-    background-color: #fff;
-    color: #333;
+html, body {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.im {
+    max-width: 100%;
+    height: auto;
+}
+ul.nav {
+    width: 100%;
+}
+.hero-section, .cards, .container {
+    padding: 15px;
+    margin: 0 auto;
+}
+#one, #two, #three, #four {
     overflow-x: hidden;
 }
 
